@@ -13,11 +13,11 @@ namespace xolaniStudyGroup.Controllers
         {
             List<Models.StudentModel> student = new List<Models.StudentModel>();
 
-            student.Add(new Models.StudentModel { StudentNumber = "u22566521", Name = "Xolani", Surname = "Mononyane", EmailAddress = "u22566521@Tuks.co.za" });
-            student.Add(new Models.StudentModel { StudentNumber = "u23654148", Name = "Tebogo", Surname = "Phasha", EmailAddress = "u23654148@Tuks.co.za" });
-            student.Add(new Models.StudentModel { StudentNumber = "u24987230", Name = "Eliocy", Surname = "Mogabe", EmailAddress = "u24987230@Tuks.co.za" });
-            student.Add(new Models.StudentModel { StudentNumber = "u22558307", Name = "Liyabona", Surname = "Moleka", EmailAddress = "u22558307@Tuks.co.za" });
-            student.Add(new Models.StudentModel { StudentNumber = "u22738241", Name = "Dirco", Surname = "Engelbrecht", EmailAddress = "u22738241@Tuks.co.za" });
+            student.Add(new Models.StudentModel { StudentNumber = "u22566521", Name = "Xolani", Surname = "Mononyane", EmailAddress = "u22566521@tuks.co.za" });
+            student.Add(new Models.StudentModel { StudentNumber = "u23654148", Name = "Tebogo", Surname = "Phasha", EmailAddress = "u23654148@tuks.co.za" });
+            student.Add(new Models.StudentModel { StudentNumber = "u24987230", Name = "Eliocy", Surname = "Mugabe", EmailAddress = "u24987230@tuks.co.za" });
+            student.Add(new Models.StudentModel { StudentNumber = "u22558307", Name = "Liya", Surname = "Moleka", EmailAddress = "u22558307@tuks.co.za" });
+            student.Add(new Models.StudentModel { StudentNumber = "u22738241", Name = "Dircus", Surname = "Engelbrecht", EmailAddress = "u22738241@tuks.co.za" });
             
 
 
